@@ -1,0 +1,77 @@
+
+{
+    "articles": [
+        {
+            "id": "1",
+            "title": "Article one",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, facilis? Modi quam adipisci blanditiis ipsa error quisquam at, nihil, voluptates maiores id, fugit tempore. A, facilis magnam. Ullam, aspernatur eos?",
+            "time": 3,
+            "image": "https://media.istockphoto.com/id/1325167730/vector/concept-of-e-learning-online-education-at-home-3d-realistic-vector-illustration.jpg?s=612x612&w=0&k=20&c=Zb62VoUsxZp1jMMxEiHTMuZC2kCmlf7N3QdnRfqfjEQ=",
+            "author": "Soozi",
+            "date": "2025.01.09"
+        },
+        {
+            "id": "2",
+            "title": "Article two",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, facilis? Modi quam adipisci blanditiis ipsa error quisquam at, nihil, voluptates maiores id, fugit tempore. A, facilis magnam. Ullam, aspernatur eos?",
+            "time": 9,
+            "image": "https://img.freepik.com/free-vector/isometric-journalist-concept-with-laptop-video-blogger-equipment-vector-illustration_1284-75313.jpg?semt=ais_hybrid&w=740",
+            "author": "John",
+            "date": "2025.02.15"
+        },
+        {
+            "id": "3",
+            "title": "Article three",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, facilis? Modi quam adipisci blanditiis ipsa error quisquam at, nihil, voluptates maiores id, fugit tempore. A, facilis magnam. Ullam, aspernatur eos?",
+            "time": 5,
+            "image": "https://img.freepik.com/free-vector/online-document-concept-illustration_114360-5453.jpg",
+            "author": "Leonardo",
+            "date": "2025.03.21"
+        },
+        {
+            "id": "4",
+            "title": "Article four",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, facilis? Modi quam adipisci blanditiis ipsa error quisquam at, nihil, voluptates maiores id, fugit tempore. A, facilis magnam. Ullam, aspernatur eos?",
+            "time": 7,
+            "image": "https://media.istockphoto.com/id/974683580/vector/copywriting.jpg?s=612x612&w=0&k=20&c=tQe7OIK-b4c16EN57Ac-vrrIwtIWxVzyCNBox3I2PlM=",
+            "author": "Sara",
+            "date": "2025.04.27"
+        },
+        {
+            "id": "5",
+            "title": "Article five",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, facilis? Modi quam adipisci blanditiis ipsa error quisquam at, nihil, voluptates maiores id, fugit tempore. A, facilis magnam. Ullam, aspernatur eos?",
+            "time": 7,
+            "image": "https://media.istockphoto.com/id/974683580/vector/copywriting.jpg?s=612x612&w=0&k=20&c=tQe7OIK-b4c16EN57Ac-vrrIwtIWxVzyCNBox3I2PlM=",
+            "author": "Sara",
+            "date": "2025.04.27"
+        },
+        {
+            "id": "6",
+            "title": "Article six",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, facilis? Modi quam adipisci blanditiis ipsa error quisquam at, nihil, voluptates maiores id, fugit tempore. A, facilis magnam. Ullam, aspernatur eos?",
+            "time": 5,
+            "image": "https://img.freepik.com/free-vector/online-document-concept-illustration_114360-5453.jpg",
+            "author": "Leonardo",
+            "date": "2025.03.21"
+        },
+        {
+            "id": "7",
+            "title": "Article seven",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, facilis? Modi quam adipisci blanditiis ipsa error quisquam at, nihil, voluptates maiores id, fugit tempore. A, facilis magnam. Ullam, aspernatur eos?",
+            "time": 9,
+            "image": "https://img.freepik.com/free-vector/isometric-journalist-concept-with-laptop-video-blogger-equipment-vector-illustration_1284-75313.jpg?semt=ais_hybrid&w=740",
+            "author": "John",
+            "date": "2025.02.15"
+        },
+        {
+            "id": "8",
+            "title": "Article eight",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, facilis? Modi quam adipisci blanditiis ipsa error quisquam at, nihil, voluptates maiores id, fugit tempore. A, facilis magnam. Ullam, aspernatur eos?",
+            "time": 3,
+            "image": "https://media.istockphoto.com/id/1325167730/vector/concept-of-e-learning-online-education-at-home-3d-realistic-vector-illustration.jpg?s=612x612&w=0&k=20&c=Zb62VoUsxZp1jMMxEiHTMuZC2kCmlf7N3QdnRfqfjEQ=",
+            "author": "Soozi",
+            "date": "2025.01.09"
+        }
+    ]
+}
